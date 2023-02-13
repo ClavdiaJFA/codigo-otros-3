@@ -1,5 +1,5 @@
 # codigo-otros-3
-page overview: https://app.netlify.com/sites/cool-babka-d7f569/overview!
+page overview: https://cool-babka-d7f569.netlify.app/
 
 Filtrar producto por color y/o tipo de calzado
 
